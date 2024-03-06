@@ -17,3 +17,7 @@
 .page:has(.header__nav:target) {
   overflow: hidden;
 }
+
+.header__nav {
+  overflow-y: auto;
+}
