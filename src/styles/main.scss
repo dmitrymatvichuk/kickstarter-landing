@@ -1,3 +1,19 @@
-body {
-  margin: 0;
+@import "utils";
+@import "blocks/header";
+@import "blocks/body-main";
+@import "blocks/footer";
+
+.page {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+
+  &__body {
+    margin: 0;
+    min-width: 320px;
+    background-color: $white-color;
+  }
+}
+
+.page:has(.header__nav:target) {
+  overflow: hidden;
 }
