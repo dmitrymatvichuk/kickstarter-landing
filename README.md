@@ -1,8 +1,12 @@
-Landing Kickstarter creaded using technologies: HTML, CSS, BEM, Javascript, Vanilla JS, SASS preprocessors and JS
-slider-carousel Flickity.
+# Landing Kickstarter
 
-This landing is adaptive to different screens, created with mobite first design. It has a stylish design, contains
-burger menu (on modile version), scroll, adaptive slider-carousel (on mobile & tablet screens), links and a form to
-fill.
+## Description
 
-Here you can find [DEMO LINK](https://dmitrymatvichuk.github.io/kickstarter-landing/)
+The Landing Kickstarter was created using various technologies including HTML, CSS, BEM, JavaScript, Vanilla JS, SASS preprocessors, and the Flickity slider-carousel.
+
+This landing page is responsive to different screen sizes and was designed with a mobile-first approach. It features a stylish design, including a burger menu (on the mobile version), scrolling functionality, an adaptive slider-carousel (on mobile and tablet screens), links, and a form for user input.
+
+## Demo
+
+Here you can find [DEMO LINK](https://dmitrymatvichuk.github.io/kickstarter-landing/){:target="_blank"}
+
