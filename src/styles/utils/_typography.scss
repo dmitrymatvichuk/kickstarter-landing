@@ -60,6 +60,10 @@ a {
     font-weight: 700;
     line-height: 22px;
   }
+
+  p {
+    font-size: 20px;
+  }
 }
 
 @include on-tablet {
