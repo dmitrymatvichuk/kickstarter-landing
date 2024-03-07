@@ -8,5 +8,5 @@ This landing page is responsive to different screen sizes and was designed with 
 
 ## Demo
 
-Here you can find [DEMO LINK](https://dmitrymatvichuk.github.io/kickstarter-landing/){:target="_blank"}
+Here you can find [DEMO LINK](https://dmitrymatvichuk.github.io/kickstarter-landing/)
 
